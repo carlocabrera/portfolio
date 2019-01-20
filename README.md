@@ -1,2 +1,1 @@
-# CARLO.CODES
-Web Developer, Programmer &amp; Designer Portfolio 
+# CARLO.CODES Web Developer, Programmer &amp; Designer Portfolio
